@@ -141,3 +141,12 @@ Aprende a través de diseño de experimentos
 Quieres verlo completo. 
 
 [Log In or Sign Up to View](https://www.facebook.com/centrodenegociosuniversitario/videos/967657327119339)
+
+---
+
+## Sobre el autor. 
+
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
+
